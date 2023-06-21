@@ -1,4 +1,4 @@
-### Swagger API Test Automation Java
+# Swagger API Test Automation Java
 
 ## Maven Dependencies
 - Cucumber 6.11.0
@@ -9,6 +9,7 @@
 - Jackson Databind 2.15.0
 
 ## Documentations
+- API Link: <a href="https://fakerestapi.azurewebsites.net/index.html" target="_blank">Click Me</a>
 - To Run All Test Cases With the Allure Report, Run **TestRunnerCucumber** File from **step.def package** <br />
   Path: <b> src > test > java > step.def >  TestRunnerCucumber </b>
 - You can run specific Test Cases or Test Scenario from **features** folder <br/>
